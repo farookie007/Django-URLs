@@ -1,1 +1,1 @@
-db.*
+farookie007/db.sqlite3
